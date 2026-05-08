@@ -1,4 +1,4 @@
-### Breast Cancer Prediction using Machine Learning
+# Breast Cancer Prediction using Machine Learning
 # Problem Statement
 To develop a Machine Learning model that predicts whether a breast tumor is benign or malignant for early cancer detection.
 
@@ -15,10 +15,10 @@ Concavity,
 Concave Points,
 Symmetry,
 Fractal Dimension.
-# Target Variable:
+## Target Variable:
 M → Malignant,
 B → Benign
-# Technologies Used
+## Technologies Used
 Python,
 Pandas,
 NumPy,
@@ -27,20 +27,20 @@ Seaborn,
 Scikit-learn,
 
 
-## Methods
+# Methods
 Methods
-# 1. Data Preprocessing
+## 1. Data Preprocessing
  - Handling missing values
  - Encoding categorical labels
  - Feature selection
  - Feature scaling using StandardScaler
 
-# 2. Exploratory Data Analysis (EDA)
+## 2. Exploratory Data Analysis (EDA)
  - Correlation heatmap
  - Feature distribution analysis
  - Boxplots and visualizations
 
-# 3. Model Training
+## 3. Model Training
 Two Machine Learning models were trained:
 1.Logistic Regression
  - Used for binary classification
@@ -49,7 +49,7 @@ Two Machine Learning models were trained:
  - Distance-based classification algorithm
  - Classifies based on nearest neighbors
  
-# 4. Model Evaluation
+## 4. Model Evaluation
 - Performance evaluated using:
 - Accuracy Score
 - Confusion Matrix
@@ -66,6 +66,6 @@ Two Machine Learning models were trained:
 The project successfully implemented Logistic Regression and KNN models for breast cancer prediction. Logistic Regression achieved the best performance with 97.37% accuracy and reduced missed malignant cases from 6 to 2. Data preprocessing, feature scaling, cross-validation, and ROC-AUC analysis improved model reliability for early cancer detection.
 
 # Future Work
--Deep Learning implementation
+- Deep Learning implementation
 - Streamlit deployment
 - Real-time prediction system
