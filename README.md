@@ -28,12 +28,34 @@ Scikit-learn,
 
 
 # Methods
+Methods
 1. Data Preprocessing
- Handling missing values
- Encoding categorical labels
- Feature selection
- Feature scaling using StandardScaler
+ -Handling missing values
+ -Encoding categorical labels
+ -Feature selection
+ -Feature scaling using StandardScaler
 
+2. Exploratory Data Analysis (EDA)
+ Correlation heatmap
+ Feature distribution analysis
+ Boxplots and visualizations
+
+3. Model Training
+Two Machine Learning models were trained:
+1.Logistic Regression
+ Used for binary classification
+ Predicts probability of cancer
+2.K-Nearest Neighbors (KNN)
+ Distance-based classification algorithm
+ Classifies based on nearest neighbors
+ 
+4. Model Evaluation
+Performance evaluated using:
+Accuracy Score
+Confusion Matrix
+Precision
+Recall
+F1-Score
 2. Exploratory Data Analysis (EDA)
  Correlation heatmap
  Feature distribution analysis
