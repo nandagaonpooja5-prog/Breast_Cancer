@@ -41,11 +41,9 @@ Methods
  - Boxplots and visualizations
 
 ## 3. Model Training
-Two Machine Learning models were trained:
-1.Logistic Regression
+Two Machine Learning models were trained:  1.Logistic Regression
  - Used for binary classification
- - Predicts probability of cancer
-2.K-Nearest Neighbors (KNN)
+ - Predicts probability of cancer  2.K-Nearest Neighbors (KNN)
  - Distance-based classification algorithm
  - Classifies based on nearest neighbors
  
