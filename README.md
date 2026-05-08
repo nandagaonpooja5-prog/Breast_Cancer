@@ -30,10 +30,10 @@ Scikit-learn,
 # Methods
 Methods
 1. Data Preprocessing
- -Handling missing values
- -Encoding categorical labels
- -Feature selection
- -Feature scaling using StandardScaler
+ - Handling missing values
+ - Encoding categorical labels
+ - Feature selection
+ - Feature scaling using StandardScaler
 
 2. Exploratory Data Analysis (EDA)
  Correlation heatmap
